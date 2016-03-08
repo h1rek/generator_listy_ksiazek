@@ -1,0 +1,20 @@
+Lista komend nakierowujących użytkownika na spis książek:
+   1. Wybierz typ książki, 
+   2. Wybierz gatunek książki, 
+   3. Wybierz tematykę gatunku.
+
+1.) Lista typów książki składa się z kategorii:
+      1. Powieść,
+      2. Opowiadanie/Nowela.
+
+2.) Gatunki książek wybiera się z listy:
+      1. Horror,
+      2. Fantasy,
+      3. Science Fiction,
+      4. Dramat,
+      5. Obyczajowe i inne.
+
+3.) Tematyka gatunku np. dla gatunku „dramat”:
+      1. Dziennik,
+      2. Zmiany historyczne,
+      3. Dramat psychologiczny.
