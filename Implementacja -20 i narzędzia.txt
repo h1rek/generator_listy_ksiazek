@@ -1,0 +1,27 @@
+Narzêdzia:
+Eclipse wersja 4.5(Mars2)
+MySql wersja 5.7
+Notepad ++ wersja 6.8.8
+Libra Office wersja 4.0
+Office 2010
+
+Implementacja:
+1. Funkcja logowania - s³u¿y do logowania u¿ytkownika do aplikacji
+2. Funkcja rejestracji - s³u¿y do rejestracji u¿ytkowników
+3. Funkcja dodawania ksi¹¿ek - s³u¿y do dodawania ksi¹¿ek
+4. Funkcja edytowania ksi¹¿ek - s³u¿y do edytowania ksi¹¿ek
+5. Funkcja usuwania ksi¹¿ek - s³u¿y do usuwnania ksi¹¿ek
+6. Funkcja lista ksi¹¿ek - s³u¿y do wyœwietlenia listy ksi¹¿ek
+7. Funkcja "Dobierz mi ksi¹¿kê!" - s³u¿y do dobrania ksi¹¿ek wed³ug preferencji u¿ytkownika
+9. Funkcja dodaj u¿ytkownika - s³u¿y do dodania u¿ytkownika 
+10. Funkcja edycji u¿ytkownika - s³u¿y do edycji u¿ytkownika(jego danych)
+11. Funkcja usuwania u¿ytkownika - s³u¿y do usuniêcia u¿ytkownika
+12. Funkcja po³¹czenie z baz¹ danych - s³u¿y do stworzenia po³¹czenia z baz¹ danych
+13. Funkcja rysowania okna logowania - s³u¿y do rysowania okna logowania1
+14. Funkcja rysowania okna rejestracji - s³u¿y do rysowania okna rejestracji
+15. Funkcja rysowania okna u¿ytkownika - s³u¿y do rysowania okna u¿ytkownika
+16. Funkcja rysowania okna pracownika - s³u¿y do rysowania okna pracownika
+17. Funkcja rysowania okna dodawania - s³u¿y do rysowania okna dodawania
+18. Funkcja rysowaina okna edycji - s³u¿y do rysowania okna edycji
+19. Funkcja rysowania okna usuwania - s³u¿y do rysowania okna usuwania
+20. Funkcja rysowania okna administratora - s³u¿y do rysowania okna administratora
